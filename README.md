@@ -1,4 +1,4 @@
 # Restaurant-Website
-Built an customizable Website of a Restaurant.
+Built an demo Website of a Restaurant.
 
 Tech Stack: HTML, CSS, JS
